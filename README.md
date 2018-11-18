@@ -1,3 +1,3 @@
 # HI
 DEMO
-this the first time to use DEMO
+this is the first time to use DEMO
